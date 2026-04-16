@@ -1,6 +1,6 @@
 """
 Kalman Filter Milestone 3 
-| Team Warjingo | IBA Karachi
+|Team Warjingo | IBA Karachi
 """
 
 import pandas as pd
