@@ -1,6 +1,6 @@
 # =========================================================================
 #  Linear Kalman Filter - RISC-V RV64GD Assembly
-#  | Team Warjongo | Milestone 3
+#  | Team Warjingo | Milestone 3
 #
 #  Architecture:
 #    s0 -> raw sensor data base address
