@@ -1,6 +1,6 @@
 """
-Kalman Filter Milestone 3 - Plots
-Karan Kumar - 30212 | Team Alpha | IBA Karachi
+Kalman Filter Milestone 3 
+| Team Warjingo | IBA Karachi
 """
 
 import pandas as pd
