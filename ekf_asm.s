@@ -1,7 +1,7 @@
 
 # =========================================================================
 #  Extended Kalman Filter - RISC-V RV64GD Assembly
-#  Karan Kumar - 30212 | Team Alpha | Milestone 3
+#  | Team Warjingo | Milestone 3
 #
 #  Architecture:
 #    s0 -> raw sensor data base address
